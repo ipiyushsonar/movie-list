@@ -1,0 +1,10 @@
+# node etc #
+node_modules/
+
+# Compiled Dirs (http://nodejs.org/api/addons.html) #
+client/dist/bundle.js
+
+# Misc #
+.DS_Store
+config.js
+documentation/
